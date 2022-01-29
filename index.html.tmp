@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="ballarin, psychologue, toulouse, emmanuelle, clinicienne, gérontologie, neuropsychologie" />
+	<title>Emmanuelle Ballarin - Psychologue Clinicienne</title>
+	<link rel="apple-touch-icon" sizes="57x57" href="./img/favicons/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="./img/favicons/apple-touch-icon-60x60.png">
+	<link rel="icon" type="image/png" href="./img/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="./img/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="./img/favicons/manifest.json">
+	<link rel="shortcut icon" href="./img/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="#00a8ff">
+	<meta name="msapplication-config" content="./img/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- Normalize -->
+	<link rel="stylesheet" type="text/css" href="./css/normalize.css">
+	<!-- Bootstrap -->
+	<link rel="stylesheet" type="text/css" href="./css/bootstrap.css">
+	<!-- Owl -->
+	<link rel="stylesheet" type="text/css" href="./css/owl.css">
+	<!-- Animate.css -->
+	<link rel="stylesheet" type="text/css" href="./css/animate.css">
+	<!-- Font Awesome -->
+	<link rel="stylesheet" type="text/css" href="./fonts/font-awesome-4.1.0/css/font-awesome.min.css">
+	<!-- Elegant Icons -->
+	<link rel="stylesheet" type="text/css" href="./fonts/eleganticons/et-icons.css">
+	<!-- Main style -->
+	<link rel="stylesheet" type="text/css" href="./css/cardio.css">
+</head>
+
+<body>
+	<div class="preloader">
+	<img src="./img/loader.gif" alt="Preloader image">
+	</div>
+	<nav class="navbar">
+	<div class="container">
+	<!-- Brand and toggle get grouped for better mobile display -->
+	<div class="navbar-header">
+	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+	<span class="sr-only">Toggle navigation</span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	<span class="icon-bar"></span>
+	</button>
+	<!--<img src="./img/logo.png" data-active-url="./img/logo-active.png" alt="">-->
+	</div>
+	<!-- Collect the nav links, forms, and other content for toggling -->
+	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	<ul class="nav navbar-nav navbar-right main-nav">
+	<li><a href="#intro" class="btn btn-blue"><b>Accueil</b></a></li>
+	<li><a href="#psychotherapie"><b>Psychoth&eacute;rapie</b></a></li>
+	<li><a href="#consulting"><b>Consulting</b></a></li>
+	<li><a href="#about"><b>A propos de moi</b></a></li>
+	<li><a href="#honoraires"><b>Honoraires</b></a></li>
+	<li><a href="#contact"><b>Contact</b></a></li>
+	</ul>
+	</div>
+	</div>
+	</nav>
+
+	<header id="intro">
+	<div class="container">
+	<div class="table">
+	<div class="header-text">
+	<div class="row">
+	<div class="col-md-12 text-center">
+	<h1 class="white typed">Emmanuelle Ballarin</h1>
+	<h3 class="white">Psychologue clinicienne et Thérapeute familiale</h3>
+	<h3 class="white">Gérontologie - Neuropsychologie</h3>
+	<br><br><br><br><br><br><br><br><br><br><br>
+	<h4 class="white"><i>« Toi qui marche, il n’existe pas de chemin, le chemin se fait en marchant ! »</i></h4>
+	<h4 class="white">Antonio Machado</h4>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</header>
+
+
+<!-- PSYCHOTHERAPIE -->
+
+	<section id="psychotherapie" class="section section-padded">
+	<div class="container"">
+	<div class="row services">
+	<div class="row text-center title">
+	<h2>Psychoth&eacute;rapie</h2>
+	</div>
+	<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+	<div class="owl-twitter owl-carousel">
+	<div class="item text-left"><br />
+	<h4 class="black"><p align="justify">
+	Dans une rencontre en face à face, je vous propose une psychothérapie intégrative inspirée des thérapies comportementales, des
+	approches systémiques et psycho-dynamiques. Un travail thérapeutique amène à comprendre les liens entre souffrance et expérience,
+	à mieux cerner l’importance du contexte et de nos histoires personnelles, avec pour bénéfice un changement qui s’inscrit dans la durée.</h4>
+	<br />
+	<div class="item text-center">
+	<a href="./psychotherapie#psychotherapie" data-toggle="modal" data-target="#modal1" class="btn btn-darkblue-fill">Quelles indications ?</a>
+	<a href="./psychotherapie#psychotherapie" data-toggle="modal" data-target="#modal2" class="btn btn-darkblue-fill">Pour qui ?</a>
+	<a href="./psychotherapie#psychotherapie" data-toggle="modal" data-target="#modal3" class="btn btn-darkblue-fill">Comment ?</a>
+	<a href="./psychotherapie#psychotherapie" data-toggle="modal" data-target="#modal4" class="btn btn-darkblue-fill">Le cabinet</a>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	<div class="cut cut-bottom"></div>
+	</section>
+
+	<div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+	<div class="modal-dialog">
+	<div class="modal-content modal-popup">
+	<a href="./psychotherapie#psychotherapie" class="close-link"><i class="icon_close_alt2"></i></a>
+	<h3 class="white">Quelles indications</h3>
+	<ul class="white-list text-left">
+	<li>Apprendre à mieux reconnaître et explorer ses émotions</li>
+	<li>Accepter ses ressentis douloureux et ses états émotionnels aversifs</li>
+	<li>Travailler sur les ruminations et les projections anxieuses</li>
+	<li>Améliorer sa qualité de vie</li>
+	<li>S’engager dans l’action avec une plus grande liberté de choix</li>
+	<li>Aider toute personne en prise avec des réactions dysfonctionnelles qui interfèrent avec le quotidien</li>
+	<li>Difficultés relationnelles dans sa vie privée, familiale ou professionnelle</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+
+	<div class="modal fade" id="modal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel1" aria-hidden="true">
+	<div class="modal-dialog">
+	<div class="modal-content modal-popup">
+	<a href="./psychotherapie#psychotherapie" class="close-link"><i class="icon_close_alt2"></i></a>
+	<h3 class="white">Pour qui ?</h3>
+	<ul class="white-list text-left">
+	<li>vous accompagnez un proche atteint d’un problème neurodégénératif ou neuro-évolutif (maladie d’Alzheimer ou une maladie
+	apparentée, maladie de Parkinson, SLA, SEP, )</li>
+	<li>vous rencontrez des difficultés depuis l’annonce d’un diagnostic</li>
+	<li>vous vous sentez stressé(e), angoissé(e), déprimé(e)</li>
+	<li>vous éprouvez une souffrance émotionnelle intense</li>
+	<li>vous rencontrez des obstacles relationnels dans votre vie privée et/ou professionnelle</li>
+	<li>vous souffrez de problèmes de santé chroniques</li>
+	<li>vous avez perdu(e) un être cher</li>
+	<li>vous éprouvez des difficultés à orienter vos choix de vie</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+
+	<div class="modal fade" id="modal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
+	<div class="modal-dialog">
+	<div class="modal-content modal-popup">
+	<a href="./psychotherapie#psychotherapie" class="close-link"><i class="icon_close_alt2"></i></a>
+	<h3 class="white">Comment ?</h3>
+	<ul class="white-list text-left">
+	<li>En consultation en individuel, en couple ou en famille</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+
+	<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel2" aria-hidden="true">
+	<div class="modal-dialog">
+	<div class="modal-content modal-popup">
+	<a href="./psychotherapie#psychotherapie" class="close-link"><i class="icon_close_alt2"></i></a>
+	<h3 class="white">Le cabinet</h3>
+	<img src="./img/cabinet.jpg" height="250"><br><br>
+	<img src="./img/cabinet2.jpg" height="250">
+	</div>
+	</div>
+	</div>
+
+
+<!-- CONSULTING -->
+
+	<section id="consulting" class="section">
+	<div class="container">
+	<div class="row title text-center">
+	<h2 class="margin-top">Consulting, Supervision et Formation</h2>
+	</div>
+	<div class="row no-margin">
+	<div class="col-md-11 no-padding col-md-offset-1 pricings text-center">
+
+	<div class="pricing">
+	<div class="box-main">
+	<h3 class="white">Consulting</h3>
+	<h4 class="white">Je propose mon expertise psycho-sociale aux institutions sociales et médico-sociales désireuses de développer
+	des projets à caractère psycho-social auprès des personnes avec trouble neurodégénératif et à leurs proches aidants.</h4>
+	<i class="info-icon icon_question" style="font-size:300%;"></i>
+	</div>
+	<div class="box-second">
+	<h4 class="white">Projets réalisés</h4><br>
+	<a href="http://www.ladepeche.fr/article/2012/10/22/1471291-saint-gaudens-l-alzheimer-autrement-a-la-pause-cafe-des-aidants.html">
+	<h5 class="white"><u>L'Alzheimer autrement a la pause cafe des aidants</u></h5></a>
+	<a href="http://www.ladepeche.fr/article/2014/01/07/1788771-aidants-se-retrouver-pour-souffler.html">
+	<h5 class="white"><u>Aidants se retrouver pour souffler</u></h5></a>
+	<a href="http://www.ladepeche.fr/article/2014/09/25/1958563-aide-malades-familles-organise-relais.html">
+	<h5 class="white"><u>L'aide aux malades et aux familles s'organise en relais</u></h5></a>
+	<a href="https://actu-fr.cdn.ampproject.org/v/s/actu.fr/occitanie/auriac-sur-vendinelle_31026/a-auriac-sur-vendinelle-pause-cafes-dedie-aidants-lutter-contre-lisolement_15904040.html/amp?amp_js_v=0.1&usqp=mq331AQGCAEYASgB#origin=https%3A%2F%2Fwww.google.com&prerenderSize=1&visibilityState=prerender&paddingTop=54&p2r=0&horizontalScrolling=0&csi=1&aoh=15238171633565&viewerUrl=https%3A%2F%2Fwww.google.com%2Famp%2Fs%2Factu.fr%2Foccitanie%2Fauriac-sur-vendinelle_31026%2Fa-auriac-sur-vendinelle-pause-cafes-dedie-aidants-lutter-contre-lisolement_15904040.html%2Famp&history=1&storage=1&cid=1&cap=swipe%2CnavigateTo%2Ccid%2Cfragment%2CreplaceUrl">
+	<h5 class="white"><u>Des pauses-cafés dédiées aux aidants</u></h5></a>
+	</div>
+	</div>
+
+	<div class="pricing">
+	<div class="box-main">
+	<h3 class="white">Supervision</h3><br>
+	<h4 class="white">J’interviens auprès des équipes soignantes dans le cas de :</h4>
+	<i class="info-icon icon_question" style="font-size:300%;"></i>
+	</div>
+	<div class="box-second">
+	<h4 class="white"><br>
+	<ul>
+	<li>Gestion de conflits</li>
+	<li>Analyse de la pratique professionnelle</li>
+	<li>Cohésion et dynamique d’équipe</li>
+	</ul></h4>
+	</div>
+	</div>
+
+	<div class="pricing">
+	<div class="box-main">
+	<h3 class="white">Formation</h3>
+	<br>
+	<h4 class="white">J’exerce en tant que Formatrice indépendante pour :
+	<br><br>CEPFOR, FORMELL, RELIANCE SANTE</h4>
+	<i class="info-icon icon_question" style="font-size:300%;"></i>
+	</div>
+	<div class="box-second">
+	<h4 class="white">Les thèmes animés : La Bientraitance, Maladie d’Alzheimer et maladie apparentée, être aidant familial,
+	Les troubles du comportement, Les syndrômes parkinsonien, la communication, le simulateur du vieillissement, La méthode Montessori</h4>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</section>
+
+
+<!-- ABOUT -->
+
+	<section id="about" class="section">
+	<div class="container">
+	<div class="row title text-center">
+	<h2 class="margin-top">A propos de moi...</h2><br />
+	<img src="./img/eballarin.jpg" alt="" /><br /><br />
+	</div>
+
+	<div class="container" style="background-color: #eeeeee;">
+	<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+	<div class="owl-twitter owl-carousel">
+	<div class="item text-left"><br />
+	<h3><span style="color: #000040;">Ma pratique &nbsp;</span></h3><br />
+	<h4 class="black"><p align="justify">
+	Psychologue clinicienne et thérapeute familial, je considère le trouble neurologique ou comportemental
+	(maladie d’Alzheimer ou maladie apparentée, maladie de Parkinson, Alcool, TDAH, …), comme un élément étranger qui s’invite
+	dans la sphère familiale créant un véritable déséquilibre relationnel. J’accompagne les familles et leurs proches à
+	« l'apprivoiser », à lui faire une place, pour trouver un meilleur équilibre relationnel.</p></h4><br /><br /><br />
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	
+	<div class="container">
+	<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+	<div class="owl-twitter owl-carousel">
+	<div class="item text-left"><br />
+	<h3><span style="color: #000040;">Mon parcours &nbsp;</span></h3><br />
+	<h4 class="black"><p align="justify">
+	Passionnée par l’exploration du cerveau, le véritable chef d’orchestre de notre comportement j’ai commencé en tant que Neuropsychologue
+	chercheuse dans les centres de recherche en France et au Canada, (CNRS Lyon et CRIUGM – Montréal). Je cherchais à comprendre le processus
+	neurodégénératif responsable des troubles cognitifs et comportementaux observés chez la personne dite « Alzheimer ou Démente ». C’est lors
+	de ma rencontre avec Hortense une des patientes du centre et sa fille, que j’ai compris que pour les aider, je devais d’abord me centrer sur
+	leurs difficultés au quotidien. 
+	J’ai alors quitté ma blouse blanche pour rejoindre le terrain dans ma ville natale à Toulouse. Depuis, je sillonne les routes à la rencontre
+	de ceux que nous appelons les aidants familiaux et leurs proches aidés.</p></h4><br /><br />
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+
+	<div class="container" style="background-color: #eeeeee;">
+	<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+	<div class="owl-twitter owl-carousel">
+	<div class="item text-left"><br />
+	<h3><span style="color: #000040;">Mes autres activités &nbsp;</span></h3><br />
+	<h4 class="black"><p align="justify">
+	J’interviens dans le cadre de la souffrance psychique auprès des personnes en situation d’isolement et de vulnérabilité
+	en partenariat avec les équipes professionnelles de service de maintien à domicile (SAAD, SSIAD).</p></h4>
+	<h4 class="black"><p align="justify">
+	J’exerce dans une plateforme d’accompagnement et de répit où j’anime des groupes de paroles pour les aidants familiaux
+	et interviens dans les sessions de formations qui leur sont destinées (Agence Régionale de la Santé)</p></h4><br /><br />
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+
+	<div class="row">
+	
+	<div class="col-md-4">
+	<div class="team text-left">
+	<img src="./img/team/rouge.png" alt="" class="avatar">
+	<div class="title">
+	<h4><span style="color: #000040;">&nbsp; Ma formation</span></h4>
+	</div>
+	<blockquote>
+	<h5>ECOLE DOCTORALE CLESCO</h5>
+	<h6 class="muted regular">Université Toulouse Jean-Jaures Laboratoire LCPI</h6>
+	<h5>FORMATION A L’APPROCHE SYSTÉMIQUE ET FAMILIALE</h5>
+	<h6 class="muted regular">(groupe Réseau et Famille) sous la direction de Jacques Puymekers, Thierry Darnaud, Guy HARDY</h6>	
+	<h5>MASTER II PROFESSIONNEL PSYCHOLOGIE CLINIQUE ET PSYCHOPATHOLOGIE, OPTION GÉRONTOLOGIE</h5>
+	<h6 class="muted regular">Université Toulouse II Jean Jaurès</h6>
+	<h5>MASTER II RECHERCHE PSYCHOLOGIE COGNITIVE ET NEUROPSYCHOLOGIE</h5>
+	<h6 class="muted regular">Université Paris Descartes V</h6>
+	</blockquote>
+	</div>
+	</div>
+	
+	<div class="col-md-4">
+	<div class="team text-left">
+	<img src="./img/team/bleu.png" alt="" class="avatar">
+	<div class="title">
+	<h4><span style="color: #000040;">&nbsp; Mon parcours professionnel</span></h4>
+	</div>
+	<blockquote>
+	<h5>CLINIQUE GERIATRIQUE DES MINIMES</h5>
+	<h6 class="muted regular">Service de soins de suite et de réadaptationToulouse (31)</h6>
+	<h5>DOMAINE DE LA CADENE</h5>
+	<h6 class="muted regular">Etablissement d’hébergement gérontologique Toulouse (31)</h6>
+	<h5>SICASMIR</h5>
+	<h6 class="muted regular">Service de maintien à domicile - Fonction Publique Territoriale Saint-Gaudens (31)</h6>
+	<h5>CNRS Institut des sciences cognitives</h5>
+	<h6 class="muted regular">Lyon (69)</h6>
+	<h5>CRIUGM</h5>
+	<h6 class="muted regular">Centre de Recherche de Gériatrie de Montréal - (Canada)<br><br>
+	Je continue à participer à des séminaires et formations pour garantir un suivi de qualité et,
+	conformément au code de déontologie des Psychologue-Psychothérapeutes, ma pratique est supervisée.</h6>
+	</blockquote>
+	</div>
+	</div>
+	
+	<div class="col-md-4">
+	<div class="team text-left">
+	<img src="./img/team/gris.png" alt="" class="avatar">
+	<div class="title">
+	<h4><span style="color: #000040;">&nbsp; Conf&eacute;rence et Publication</span></h4>
+	</div>
+	<blockquote>
+	<h5>Conférence « Maladie d'Alzheimer : Quels impacts sur les relations ? Familles, professionnels, comment trouver sa place ? »</h5>
+	<h6 class="muted regular">lors de la journée mondiale Alzheimer.</h6>
+	<h5>Conférence « Prévention de l’isolement social des aidants familiaux »</h5>
+	<h6 class="muted regular">lors de la journée nationale de la prévention du suicide à Toulouse.</h6>
+	<h5>Conférence « le sens caché de la plainte mnésique de Jeanne »</h5>
+	<h6 class="muted regular">lors la journée de la recherche en Psycho-Gérontologie Clinique, organisée par les laboratoires LCPI et Octogone-CERPP
+	- Toulouse</h6>	
+	<h5>Publication « Le sens caché de la plainte amnésique de Jeanne, 72 ans, une prise en charge psychologique
+	intégrée »</h5>
+	<h6 class="muted regular">Psychologie clinique du Vieillissement ; Fernandez L., et Sagne A. 2013
+	<h5>Publication « Striatal and hippocampal involvement in motor sequence chunking depends on the
+	learning strategy”</h5>
+	<h6 class="muted regular">The Journal of Neurosciences – 2010 & Cortex- 2012</h6>	
+	</blockquote>
+	</div>
+	</div>
+	</div>
+	</div>
+
+	</section>
+
+
+<!-- HONORAIRES -->
+
+	<section id="honoraires" class="section section-padded">
+	<div class="container">
+	<div class="row services">
+	<div class="row text-center title">
+	<h2>Honoraires</h2><br />
+	<h5>Les consultations psychologiques et psychothérapeutiques faites par un psychologue ne
+	sont pas remboursées par la sécurité sociale. Cependant, certaines mutuelles proposent un remboursement
+	partiel des séances. Renseignez-vous auprès de votre mutuelle.</h5>
+	</div>
+	
+	<div class="col-md-4">
+	<div class="service">
+	<div class="icon-holder">
+	<img src="img/icons/individu.png" alt="" class="icon">
+	</div>
+	<h4 class="heading">Consultation individuelle</h4>
+	<p class="description">Le tarif d'une consultation individuelle est de 50 euros.</p>
+	</div>
+	</div>
+
+	<div class="col-md-4">
+	<div class="service">
+	<div class="icon-holder">
+	<img src="img/icons/couple.png" alt="" class="icon">
+	</div>
+	<h4 class="heading">Consultation de couple</h4>
+	<p class="description">Le tarif d'une consultation de couple est de 50 euros par personne.</p>
+	</div>
+	</div>
+
+	<div class="col-md-4">
+	<div class="service">
+	<div class="icon-holder">
+	<img src="img/icons/famille.png" alt="" class="icon">
+	</div>
+	<h4 class="heading">Consultation familiale</h4>
+	<p class="description">Me consulter.</p>
+	</div>
+	</div>
+
+	<div class="col-md-4">
+	<div class="service">
+	<div class="icon-holder">
+	<img src="img/icons/partnership.png" alt="" class="icon">
+	</div>
+	<h4 class="heading">Consulting, Supervision et Formation</h4>
+	<p class="description">Me consulter.</p>
+	</div>
+	</div>
+
+	</div>
+	</div>
+	<div class="cut cut-bottom"></div>
+	</section>
+
+
+<!-- CONTACT -->
+
+	<footer id="contact">
+	<div class="container">
+	<div class="row">
+	<div class="col-sm-6 text-center-mobile">
+	<h3 class="white">Pour me contacter :</h3>
+	<h5 class="light regular light-white">Mon cabinet est situé en plein cœur de TOULOUSE : </h5>
+	<a href="https://goo.gl/maps/6uK1LebrqVL2"><span class="btn btn-blue ripple trial-button">10 rue des Potiers<br /> 31000 TOULOUSE</span></a>
+	<h4 class="white"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;06 09 72 20 21</h4>  
+	<h4 class="white"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:emmanuelle.ballarin.psy@gmail.com">emmanuelle.ballarin.psy@gmail.com</a></h4>  
+	</div>
+	<div class="col-sm-6 text-center-mobile">
+	<h3 class="white">Sur rendez-vous <span class="open-blink"></span></h3>
+	<div class="row opening-hours">
+	<div class="col-sm-6 text-center-mobile">
+	<h5 class="light-white">Le Lundi</h5>
+	<h3 class="regular white">08:00 - 20:00</h3>
+	</div>
+	<div class="col-sm-6 text-center-mobile">
+	<h5 class="light-white">Le Mercredi</h5>
+	<h3 class="regular white">08:00 - 20:00</h3>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</footer>
+
+
+<!-- Holder for mobile navigation -->
+
+	<div class="mobile-nav">
+	<ul>
+	<li><a href="./psychotherapie.html#psychotherapie">Psychoth&eacute;rapie</a></li>
+	</ul>
+	<a href="#" class="close-link"><i class="arrow_up"></i></a>
+	</div>
+
+
+<!-- Scripts -->
+
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/typewriter.js"></script>
+	<script src="js/jquery.onepagenav.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+
+</html>
